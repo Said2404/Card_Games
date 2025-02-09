@@ -1,3 +1,4 @@
+
 ```markdown
 # Card Games - Memorix Game 🎴
 
@@ -40,6 +41,7 @@ A demonstration of the gameplay is available. Click the link below to watch it:
 
 ## 👩‍💻 Technologies Used
 - **C Language**: Core logic and game mechanics.
+
 ---
 
 ## ✍️ Authors
@@ -62,4 +64,3 @@ This project was created by **[me]** and **[my Colleague's Name]** as part of a 
 
 Enjoy the game! 🎉
 ```
-
