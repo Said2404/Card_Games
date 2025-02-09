@@ -1,5 +1,4 @@
 
-```markdown
 # Card Games - Memorix Game 🎴
 
 ## 📚 About the Project
@@ -24,7 +23,7 @@ This project is a card game called **Mémorix**, developed as part of a universi
 ---
 
 ## 🛠 How It Works
-1. **Card Setup**: A grid of L rows and C columns is created, and cards are placed face down. 
+1. **Card Setup**: A grid of L rows and C columns is created, and cards are placed face down.
 2. **Turn-Based Play**: Players flip over two cards per turn to find matches:
    - A correct match earns points.
    - Failing to find matches after several consecutive attempts results in point loss.
@@ -41,11 +40,10 @@ A demonstration of the gameplay is available. Click the link below to watch it:
 
 ## 👩‍💻 Technologies Used
 - **C Language**: Core logic and game mechanics.
-
 ---
 
 ## ✍️ Authors
-This project was created by **[me]** and **[my Colleague's Name]** as part of a university project. The work reflects collaboration, problem-solving, and programming skills honed through academic practice.
+This project was created by ma and my colleague as part of a university project. The work reflects collaboration, problem-solving, and programming skills honed through academic practice.
 
 ---
 
