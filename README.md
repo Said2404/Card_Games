@@ -57,8 +57,5 @@ This project was created by ma and my colleague as part of a university project.
    ./Memorix
    ```
 3. Follow the on-screen instructions to configure the game and start playing!
-
 ---
-
 Enjoy the game! 🎉
-```
